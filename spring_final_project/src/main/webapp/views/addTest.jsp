@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>test.jsp</h2>
-
+	<h2>파일추가</h2>
+	
+	<h2>js 브랜치 생성</h2>
+	<h2>병합 완료</h2>
 </body>
 </html>
