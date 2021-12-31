@@ -14,6 +14,5 @@
 
 	<h1>yj.test</h1>
 
->>>>>>> refs/heads/main
 </body>
 </html>
